@@ -1,5 +1,6 @@
 package com.javalec.ex;
 
+//자바 빈 생성
 public class Student {
 	
 	private String name;
